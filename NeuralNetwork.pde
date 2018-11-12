@@ -1,4 +1,4 @@
-class NeuralNetwork { //<>//
+class NeuralNetwork {
 
   Matrix[] weights;
   Matrix[] biases;
